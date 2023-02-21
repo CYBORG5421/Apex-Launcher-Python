@@ -8,4 +8,6 @@ KeyAuth Option Also Included, Commented by Default can be enabled and used. <br>
 
 pyinstaller --add-data "templates;templates" --add-data "static;static" --onefile main.py to make it .exe binary.<br>
 
- <img src="https://i.ibb.co/HGnf0sz/Screenshot-16.png"> 
+ <img src="https://i.ibb.co/HGnf0sz/Screenshot-16.png">
+ <img src="https://i.ibb.co/FW8kcnQ/Screenshot-17.png">
+ <img src="https://i.ibb.co/CBrsKh2/Screenshot-18.png">
