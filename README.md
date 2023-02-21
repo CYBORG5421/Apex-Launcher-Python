@@ -1,5 +1,5 @@
 # Apex-Launcher-Python
-Simple Launcher Made for Apex Legends written in Python Flask &amp; WebView using HTML, CSS &amp; JS as UI. <br>
+Simple Cheats Launcher / Loader Made for Apex Legends written in Python Flask &amp; WebView using HTML, CSS &amp; JS as UI. <br>
 <h2>Dependencies Installation:</h2><br>
 pip install Flask keyauth webview hashlib pyinstaller <br>
 <h3>After Dependencies Installation:</h3><br>
